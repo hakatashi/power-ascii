@@ -1,0 +1,25 @@
+{
+  "name": "power-ascii",
+  "version": "1.0.0",
+  "description": "Powerful ASCII Characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakatashi/power-ascii.git"
+  },
+  "keywords": [
+    "ASCII",
+    "ASCII Art",
+    "ASCII Graphic",
+    "text"
+  ],
+  "author": "Koki Takahshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/power-ascii/issues"
+  },
+  "homepage": "https://github.com/hakatashi/power-ascii#readme"
+}
